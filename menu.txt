@@ -1,0 +1,24 @@
+MAKANAN|Nasi Goreng|25000.0|Kering
+MAKANAN|Mie Goreng|220000.0|Kering
+MAKANAN|Ayam Geprek|20000.0|Kering
+MAKANAN|Ayam Bakar|28000.0|Kering
+MAKANAN|Sate Ayam|30000.0|Kering
+MAKANAN|Soto Ayam|18000.0|Kuah
+MAKANAN|Bakso|17000.0|Kuah
+MAKANAN|Mie Ayam|16000.0|Kuah
+MAKANAN|Nasi Ayam Teriyaki|27000.0|Kering
+MAKANAN|Nasi Goreng Seafood|32000.0|Kering
+MINUMAN|Es Teh Manis|5000.0|Dingin
+MINUMAN|Es Jeruk|8000.0|Dingin
+MINUMAN|Jus Alpukat|15000.0|Dingin
+MINUMAN|Jus Mangga|13000.0|Dingin
+MINUMAN|Kopi Hitam|10000.0|Panas
+MINUMAN|Es Kopi Susu|18000.0|Dingin
+MINUMAN|Teh Tarik|12000.0|Panas
+MINUMAN|Air Mineral|4000.0|Dingin
+MINUMAN|Cappuccino|20000.0|Panas
+MINUMAN|Cokelat Dingin|15000.0|Dingin
+DISKON|Promo Akhir Pekan|0.0|15.0
+DISKON|Promo Spesial|0.0|20.0
+MAKANAN|Nasi Kepal Cumi|15000.0|Kering
+MINUMAN|Es Teler Durian|18000.0|Dingin
